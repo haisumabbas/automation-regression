@@ -1,0 +1,6 @@
+#cypress folders
+cypress/videos
+cypress/reports
+cypress/screenshots
+cypress/report
+node_modules
